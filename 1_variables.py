@@ -1,4 +1,4 @@
-# Variable Exercise 1
-name = 'John Smith'
-age = 20
-is_new = True
+# Initializing variable
+name = 'John Smith' # String
+age = 20 # Integer
+is_new = True # Boolean
